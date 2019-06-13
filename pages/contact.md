@@ -1,54 +1,14 @@
 ---
 layout: page
-title: Contact
+title: About & Contact
 permalink: /contact/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<div class="section">
-    <h5>Raised</h5> 
+![Heather Milam](https://theatre.indiana.edu/images/profiles/profiles-768x768/Milam-Headshot-Sp2019.jpg "Heather Milam")
+[Heather Milam](https://theatre.indiana.edu/about/faculty/milam-heather.html) is a Professor of Practice for Costume Technology in the Department of Theatre, Drama, and Contemporary Dance at Indiana University. She is also the Director of Undergraduate Studies.
 
-    <div class="row">
-          <div class="col s12">
-                <a class="waves-effect waves-light btn">button</a>
-                <a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>button</a>
-                <a class="waves-effect waves-light btn"><i class="material-icons right">cloud</i>button</a>
-          </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Floating</h5> 
+A native New Yorker, Heather obtained her bachelor’s degree in theatre from Ithaca College in the mid-nineties. Upon graduation, she moved to NYC where she worked making Broadway costumes at Barbara Matera Ltd. She worked as a cutter, first hand, pattern maker and assistant draper over her years of service with the shop. She worked on such shows as *Spamalot*, *Mama Mia*, *Movin’ Out*, *Thoroughly Modern Millie*, *The Lion King*, *Aida*, *Beauty and the Beast*, *Sunset Boulevard* and *Show Boat*, as well as 101 & 102 Dalmatians (the movies), many ballets (NYC, ABT, SF), several operas, the finale costume for Cher’s 2003 Farewell Tour, the Rolling Stone’s 1995 Voodoo Lounge Tour and more.
 
-    <div class="row">
-            <div class="col s12">
-                <a class="btn-floating btn-large waves-effect waves-light red"><i class="material-icons">add</i></a>
-            </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Large</h5> 
-
-    <div class="row">
-          <div class="col s12">
-                <a class="waves-effect waves-light btn-large">Button</a>
-                <a class="waves-effect waves-light btn-large"><i class="material-icons left">cloud</i>button</a>
-                <a class="waves-effect waves-light btn-large"><i class="material-icons right">cloud</i>button</a>
-          </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Disabled</h5> 
-
-    <div class="row">
-        <div class="col s12">
-                <a class="btn-large disabled">Button</a>
-                <a class="btn disabled">Button</a>
-                <a class="btn-flat disabled">Button</a>
-                <a class="btn-floating disabled"><i class="material-icons">add</i></a>      
-        </div>
-    </div>
-</div>
+This project is drawn from her experience helping costumers-in-training alter suit jackets for use in period-accurate plays and musicals.
