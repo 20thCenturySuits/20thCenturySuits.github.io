@@ -6,7 +6,7 @@ permalink: /contact/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<div style="float:left; width:35%;"><img class="responsive-img circle" width="src="https://theatre.indiana.edu/images/profiles/profiles-768x768/Milam-Headshot-Sp2019.jpg"></div>
+<img class="responsive-img circle" width="25%" align="right" src="https://theatre.indiana.edu/images/profiles/profiles-768x768/Milam-Headshot-Sp2019.jpg">
 
 [Heather Milam](https://theatre.indiana.edu/about/faculty/milam-heather.html) is a Professor of Practice for Costume Technology in the Department of Theatre, Drama, and Contemporary Dance at Indiana University. She is also the Director of Undergraduate Studies.
 
