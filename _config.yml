@@ -1,0 +1,11 @@
+title: 20th Century Suit Trends
+author: Heather Milam
+email: heatherannemilam@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This site explores the trends in 20th-century men's suit jackets by exposing relevant proportion information, fabric choices and other details, so that costumers can easily map suits on-hand and alteration needs for costuming puirposes.
+
+twitter_username: heathermilam
+github_username:  heathermilam
+
+sass:
+    style: compressed
