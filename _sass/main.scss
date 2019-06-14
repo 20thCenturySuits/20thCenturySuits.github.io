@@ -65,3 +65,8 @@ h1.page-title {
 p.rss-subscribe {
     margin: 0;
 }
+
+img[src*="#right"] {
+   float:left;
+   width:150px;
+}

@@ -56,7 +56,7 @@ Once you're done, [enter your suit measurements](https://airtable.com/shrH8RqeQP
  
 ### Front
 
-<img src="/assets/images/measurements/frontbuttonsdistance.png" align=right>
+![Front Buttons](/assets/images/measurements/frontbuttonsdistance.png#right)
 
 - Number of front buttons
 - Distance center to center between top and bottom buttons
