@@ -18,23 +18,23 @@ Before you start measuring, make sure you've read through this guide. It contain
 ### Collar and Lapel
 
 - Lapel style: notched, peak, cloverleaf
-- Lapel width: perpendicular to the roll line to lapel tip lapelwidth.png
-- Lapel notch length: measuring along the lapel from notch to tip lapelnotchlength.png
-- Collar notch length: measuring along the collar from not to tip collarnotchlength.png
-- Gorge line length: measure from roll line to lapel tip gorgeline.png
-- Collar edge: measure the length of the collar edge from tip to tip collaredge.png
-- Notch point to point: distance between collar tip and lapel tip notchpointtopoint.png
-- Center back to center front roll line: measured along the roll line from CB to CF edge rolllineCBCF.png
-- Collar height at center back: collar edge to roll line at CB collarheight.png
+- Lapel width: perpendicular to the roll line to lapel tip [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/lapelwidth.png)
+- Lapel notch length: measuring along the lapel from notch to tip [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/lapelnotchlength.png)
+- Collar notch length: measuring along the collar from not to tip [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/collarnotchlength.png)
+- Gorge line length: measure from roll line to lapel tip [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/gorgeline.png)
+- Collar edge: measure the length of the collar edge from tip to tip [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/collaredge.png)
+- Notch point to point: distance between collar tip and lapel tip [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/notchpointtopoint.png)
+- Center back to center front roll line: measured along the roll line from CB to CF edge [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/rolllineCBCF.png)
+- Collar height at center back: collar edge to roll line at CB [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/collarheight.png)
 
 ### Body & Shoulder
 
-- Back shoulder to shoulder backshouldertoshoulder.png
-- Front armscye to armscye  frontarmscyetoarmscye.png
+- Back shoulder to shoulder [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/backshouldertoshoulder.png)
+- Front armscye to armscye  [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/frontarmscyetoarmscye.png)
 - Chest circumference at underarm
 - Waist circumference at narrowest point
 - Hip circumference at widest point
-- Shoulder seam: measure actual shoulder seam from collar to armscye shoulderseam.png
+- Shoulder seam: measure actual shoulder seam from collar to armscye [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/shoulderseam.png)
 - Center back length from top of collar roll to bottom hem
 
 ### Back Vent
@@ -44,13 +44,13 @@ Before you start measuring, make sure you've read through this guide. It contain
 
 ### Armscye and Sleeve
 - Armscye circumference: measure armscye seam
-- Sleeve length from sleeve cap to hem: measure from top shoulder armscye seam down the center of the sleeve to the hem sleevelength.png
-- Bicep flat at armscye: measure flattened sleeve at lowest point of armscye bicepwidth.png
-- Wrist half cuff: measure flattened sleeve hem wristwidth.png
-- Sleeve vent opening to center top button: measure distance center of buttons are offset from seam or vent sleevevent.png
+- Sleeve length from sleeve cap to hem: measure from top shoulder armscye seam down the center of the sleeve to the hem [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/sleevelength.png)
+- Bicep flat at armscye: measure flattened sleeve at lowest point of armscye [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/bicepwidth.png)
+- Wrist half cuff: measure flattened sleeve hem [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/wristwidth.png)
+- Sleeve vent opening to center top button: measure distance center of buttons are offset from seam or vent [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/sleevevent.png)
 - Number of sleeve buttons
 - Sleeve button configuration: touching, spaced
-- Center of bottom button to hem sleevebuttontohem.png
+- Center of bottom button to hem [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/sleevebuttontohem.png)
  
 ### Front
 Number of front buttons
