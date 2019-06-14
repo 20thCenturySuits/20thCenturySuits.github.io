@@ -10,6 +10,8 @@ permalink: /suitmatch/
 
 Before you start measuring, make sure you've read through this guide. It contains a number of measurements that we use to calculate proportions and match your suit to the suits in our [Reference Database](/suitmatch).
 
+Once you're done, [enter your suit measurements](https://airtable.com/shrH8RqeQPgSZp4eG) and we'll show you which suits in our reference-model database match most closely.
+
 ### Basic Suit Information
 
 - Measurement technique: will you be measuring a suit on a form or flat on a table or hangar
