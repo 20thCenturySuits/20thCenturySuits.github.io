@@ -53,13 +53,15 @@ Before you start measuring, make sure you've read through this guide. It contain
 - Center of bottom button to hem [<i class="material-icons"> open_in_new</i>](/assets/images/measurements/sleevebuttontohem.png)
  
 ### Front
-Number of front buttons
-Distance center to center between top and bottom buttons
-Distance from last center button to hem 
-Vertical distance from last center button to beginning of center front hem curvature
-Vertical distance from last center button to visible split at center front hem curvature
-Horizontal distance from hem curvature beginning on left front to hem curvature on right front
-Describe the angle of curvature in the front center hem copy?
+
+<img src="/assets/images/measurements/frontbuttonsdistance.png" align=right>
+- Number of front buttons
+- Distance center to center between top and bottom buttons
+- Distance from last center button to hem 
+- Vertical distance from last center button to beginning of center front hem curvature
+- Vertical distance from last center button to visible split at center front hem curvature
+- Horizontal distance from hem curvature beginning on left front to hem curvature on right front
+- Describe the angle of curvature in the front center hem copy?
  
 ### Pockets
 chest pocket style
